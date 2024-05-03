@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ABtechsystem
-- 👀 I’m interested in PHP Development / Laravel Development
+- 👀 I’m interested in Wordpress,PHP Development / Laravel Development
 - 🌱 I’m currently learning React JS / Laravel
 - 💞️ I’m looking to collaborate on tutoring WEb development and PHP to Freshers 
 - 📫 How to reach me skype: ravindragehlot , gmail: abtechrepair1@gmail.com
